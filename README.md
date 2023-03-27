@@ -6,7 +6,7 @@
   Bunu biraz daha geliştirip yeni özellikler katarak kendimi <br>
   ve bu projeyi güçlendirmeyi hedefliyorum. <br>
   <br>
-  Projede yardımda bulunmak isteyen bana <a href="">bu linkten ulaşabilir.</a>
+  Projede yardımda bulunmak isteyen bana <a href="https://discord.com/users/587564522009788426">bu linkten ulaşabilir.</a>
 </h3>
 
 <p align="center">
