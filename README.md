@@ -1,11 +1,16 @@
-<h1 align="center">OMAYGAT BRO AZ ÖNCE MANYAK BİR ŞEY YAPTIM!</h1>
+<h1 align="center">Selamlar!</h1>
+
+
+<div align="center">
+<h4>• Proje bazı teknik sorunlar sebebiyle iptal edildi.</h4> 
+<h4>• Fakat proje silinmeyecek en son haliyle buraya atılacak.</h4> 
+<h4>• Hiç optimize vs. etmedim öyle kaldı proje</h4> 
+<h4>• Eğer çözüm bulursam projeye devam ederim böyle yarım bırakmam</h4>
+</div>
 
 <h3 align="center">
-  Gencolar lanyard'ın çakmasını yaptım nasıl sizce? <br>
-  <br>
-  Bunu biraz daha geliştirip yeni özellikler katarak kendimi <br>
-  ve bu projeyi güçlendirmeyi hedefliyorum. <br>
-  <br>
+  
+ 
   Projede yardımda bulunmak isteyen bana <a href="https://discord.com/users/587564522009788426">bu linkten ulaşabilir.</a>
 </h3>
 
